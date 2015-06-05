@@ -1,4 +1,4 @@
-# Simulating-Aquacluter-Production
+# Simulating-Aquaculter-Production
 Simulating Aquaculter Production spread sheets for ocean cage production
 
 Simulation of Aquaculture Production is a series of three .Excel spreadsheets for simulating the production of sea bass (D. Labrax) in cages in the open sea. It provides insight into aquaculture production and business simulations.
